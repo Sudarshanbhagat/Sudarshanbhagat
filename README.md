@@ -13,10 +13,9 @@ I build software across the stack — from RTOS firmware to backend APIs to appl
 
 ### 🚀 Featured Project
 
-**[EmoTract](#)** — Real-time facial emotion recognition system (CNN + ResNet-50)
+**[EmoTract](https://ieeexplore.ieee.org/document/11009820/)** — Real-time facial emotion recognition system (CNN + ResNet-50)
 Published: IEEE, Paper ID 11009820
 ~86% accuracy (F1: 0.84) · <35ms inference (~30 FPS) · trained on 30k+ facial images
-*(link coming soon)*
 
 ---
 
