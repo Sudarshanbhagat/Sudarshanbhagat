@@ -4,10 +4,10 @@
 
 I build software across the stack — from RTOS firmware to backend APIs to applied AI — with hands-on embedded experience from an industrial control systems internship at Eaton.
 
-- 🔧 **Embedded:** C/C++, Zephyr RTOS, device drivers (UART/SPI/I2C), board bring-up
-- 🖥️ **Backend:** Java, Python, REST APIs, SQL/NoSQL (PostgreSQL)
-- 🤖 **Applied AI:** Computer Vision, Deep Learning (CNN, ResNet-50) — published in IEEE
-- 🔐 Secure-by-design mindset (CEH certified)
+- **Embedded:** C/C++, Zephyr RTOS, device drivers (UART/SPI/I2C), board bring-up
+- **Backend:** Java, Python, REST APIs, SQL/NoSQL (PostgreSQL)
+- **Applied AI:** Computer Vision, Deep Learning (CNN, ResNet-50) — published in IEEE
+- Secure-by-design mindset (CEH certified)
 
 ---
 
